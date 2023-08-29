@@ -14,6 +14,7 @@
 		856A3C6D2A9E3665008506D2 /* Inspirational_Quotes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 856A3C6B2A9E3665008506D2 /* Inspirational_Quotes.xcdatamodeld */; };
 		856A3C6F2A9E3666008506D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 856A3C6E2A9E3666008506D2 /* Assets.xcassets */; };
 		856A3C722A9E3666008506D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 856A3C702A9E3666008506D2 /* LaunchScreen.storyboard */; };
+		856A3C7A2A9E381E008506D2 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 856A3C792A9E381E008506D2 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		856A3C6E2A9E3666008506D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		856A3C712A9E3666008506D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		856A3C732A9E3666008506D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		856A3C792A9E381E008506D2 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				856A3C642A9E3665008506D2 /* SceneDelegate.swift */,
 				856A3C662A9E3665008506D2 /* ViewController.swift */,
 				856A3C682A9E3665008506D2 /* Main.storyboard */,
+				856A3C792A9E381E008506D2 /* TableViewController.swift */,
 				856A3C6E2A9E3666008506D2 /* Assets.xcassets */,
 				856A3C702A9E3666008506D2 /* LaunchScreen.storyboard */,
 				856A3C732A9E3666008506D2 /* Info.plist */,
@@ -144,6 +147,7 @@
 				856A3C672A9E3665008506D2 /* ViewController.swift in Sources */,
 				856A3C632A9E3665008506D2 /* AppDelegate.swift in Sources */,
 				856A3C6D2A9E3665008506D2 /* Inspirational_Quotes.xcdatamodeld in Sources */,
+				856A3C7A2A9E381E008506D2 /* TableViewController.swift in Sources */,
 				856A3C652A9E3665008506D2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
